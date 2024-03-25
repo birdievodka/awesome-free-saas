@@ -1,4 +1,4 @@
-# Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/fancylife/awesome-free-saas)
 
 an awesome list of free SaaS (software as a service) for you.
 一份很棒的免费 SaaS（软件即服务）清单。
@@ -32,7 +32,12 @@ an awesome list of free SaaS (software as a service) for you.
   - [Content & Experience](#content--experience)
   - [BI](#bi)
   - [Restaurants](#restaurants)
-- [License](#license)
+  - [E-signature](#e-signature)
+  - [Integration Payment](#Integration-Payment)
+  - [Corporate Training](#corporate-training)
+  - [License](#license)
+  
+
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
@@ -269,6 +274,79 @@ an awesome list of free SaaS (software as a service) for you.
 - [Olo](https://www.olo.com/) - Olo is a New York City-based B2B SaaS company that develops digital ordering and delivery programs for restaurants.
 - [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
 - [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
+
+## E-signature  
+- [法大大](https://www.fadada.com/) - 国内领先的电子签名与电子合同云平台，致力为企业、政府和个人提供基于合法数字签名技术的电子合同和电子单据的签署及管理服务。
+- [君子签](https://www.junziqian.com/) - 以“区块链+司法+电子签约”的形式为企业与个人提供电子合同、电子文件签署、合同管理、电子签章系统、数据存证、法律支持等一站式服务,支持SaaS、API对接、本地化部署等多种对接方式。
+- [e签宝](https://www.esign.cn/) - 专业的全生态电子签名服务商。基于实名身份,为用户提供在线电子签章/签名服务的平台,并且为企业用户提供电子签名、电子合同管理、数据存证和法律维权等服务。
+- [众签](https://www.51signing.com/) - 可信交易解决方案提供商，主营产品包含电子合同、电子签章、区块链存证、智能仲裁等，面向用户提供实名认证、数字证书、合同转换、在线签署、存证保全和司法落地等全流程电子合同以及区块链存证、智能仲裁等服务。
+- [契约锁](https://www.qiyuesuo.com/) - 提供电子签章、电子合同、数据存证、防伪打印、智能印章等解决方案,让每一个组织的公章安全可控,随时随地进行电子化签约。
+- [大家签](https://www.letusign.com/) - 服务对象涵盖政府机构、企事业单位、自然人等社会主体,通过与国内多家第三方数字证书认证机构合作,对平台用户进行严格的身份认证,确保用户身份的真实性。
+- [上上签](https://www.bestsign.cn/) - 为企业提供「合同起草」、「实名认证」、「在线审批」、「签约管理」、「合同管理」、「履约提醒」、「法律支持」、「证据链保存」等合同全生命周期的智能管理服务。
+- [一签通](https://www.easysign.cn/) - 第三方电子合同电子签章服务平台,为企业提供电子合同、电子签章、数据存证、司法出证等全套服务,是北京市认定的双软认证企业和高新技术企业。
+- [1号签](https://www.enjoysign.com/) - 平台可实现合同文件在线签，以拥有专利技术的线上签约取代传统的手签快递、扫描传真和邮件确认等方式，安全合法又省钱。
+- [金格科技](https://lynn2008.etlong.com/) - 是一家专门从事电子签章&网络中间件软件研究与开发的软件企业,提供基于互联网络平台的解决方案及应用产品、技术和服务。
+- [同智伟业](http://www.tongzhi.com.cn/) - 致力于以国产密码应用为核心的信息安全产品和行业应用的研发、销售和技术服务，拥有公安部、国家保密局、国家密码局相关业务资质和近百项知识产权。
+- [安心签](http://www.anxinsign.com/) - 中国金融认证中心(CFCA)研发的一套集,电子合同,电子签章,电子版合同,电子合同签署平台,在线电子合同的第三方电子合同平台。
+- [信任度](https://www.trustdo.cn/) - 数权经济司法服务提供商，致力于以技术创新驱动互联网司法服务升级，以生态链接保障数字经济的合法权益。通过建立关于人、行为、数据之间的互联网可信应用体系，提升互联网环境下的信任水平、降低网络信任的成本。
+- [领签](http://www.linksign.cn/) - 第三方电子合同和电子签名服务商，拥有完全自主知识产权的电子合同和电子签名产品，向金融、保险、旅游、教育、供应链、物流、B2B交易、医疗、政府机构等众多客户提供电子签名产品、服务和解决方案。
+- [易企签](https://www.signit.cn/) - 以可靠电子签名,实现文档签署及业务,流程全程数字化,让企业运营更智能。
+
+## Integration Payment  
+- [微客巴巴](http://www.weikebaba.com/) - 以“支付+、大数据应用”为核心发展战略导向，深耕新零售领域，专注于支付场景下的新零售科技与大数据应用服务，为中小企业及实体商家解决开店难、经营难问题，提升经营效率，降低经营成本，增加经营收入，实现数字化经营升级。
+- [钱方好近](http://www.qfpay.com/) - 移动支付和消费大数据金融科技公司。
+- [Ping++](https://www.pingxx.com/) - 聚合支付云 SDK 让你在 app 和网站中轻松加入支付功能。
+- [BEECLOUD](http://www.beecloud.cn/) - 提供一站式移动支付解决方案的云服务平台，既可以帮助移动应用快速实现全渠道支付方式集成，同时也提供安全稳定的分布式云后端服务，为移动应用扫清支付障碍，保障用户支付过程安全流畅。
+- [维金](https://www.vfinance.cn/) - 致力于为企业提供互联网金融基础设施及整体解决方案，帮助企业一站式解决在资金收付、账户管理、资金合规等方面问题，助力企业全面提升中后台管理效率。
+- [中金支付](https://www.cpcn.com.cn/) - 是一家专业从事互联网支付的第三方支付机构。
+- [和付](https://www.andpay.me/) - 行业智能服务方案提供商，为各行各业的核心企业打造符合其业务特征的综合产业链解决方案。
+- [易宝支付](https://www.yeepay.com/) - 专注于提供行业整体解决方案，让支付更加便捷、安全、智慧。
+
+
+## Enterprise cloud disk
+- [亿方云](https://www.fangcloud.com/) - 随时随地，轻松实现文件存储共享与协作
+- [优米云盘](http://www.yomicloud.com/) - 优米云盘全面覆盖企业文档管理场景，提升文件协作效率，为企业提供专业全面的文件管理私有云解决方案
+- [坚果云](https://www.jianguoyun.com/) - 任何设备，随时随地实现文件共享，帮助企业中的变革者改善工作效率和方法
+- [连用科技](http://www.linkapp.cn/) - 更灵活的文件安全共享机制，完全支持混合云架构
+- [联想企业网盘](https://box.lenovo.com/) - IDC与Gartner双重认可的企业网盘，用于内部文件存储、备份和共享，对外文件分享、展示和外部文件收集，支持多人协同的网银级安全产品
+- [够快云库](https://www.gokuai.com/) - 够快云库，高效的企业文件协作管理平台
+- [开始云](http://www.kass.com.cn/) - 完美替代共享文件夹，让文件触手可及，打造企业级安全网盘环境
+- [微盘](https://work.weixin.qq.com/) - 实时共享工作资料，批量分享方便快捷，安全管理企业文件
+- [燕麦云](https://www.oatos.com/) - 安全智能的企业级内容协作
+- [飞书云盘](https://activity.feishu.cn/activity/ug/register/drive) - 用飞书云盘便捷管理企业知识资源
+- [百度智能云](https://cloud.baidu.com/) - 可私有云部署的企业云盘，为企业提供安全、高效、智能、多中心的云盘解决方案。一站式快速构建文档和内容平台，提升员工办公协同效率，实现企业数据统一管理。
+
+## Corporate Training
+- [平安知鸟](https://www.zhi-niao.com/) - 平安集团打造的企业培训一站式方案
+- [OpenEdx](https://open.edx.org/) - Enable online campuses, instructor-led courses, degree programs, and self-paced courses using a single platform.
+- [edcast](https://www.edcast.com/) - Provide frictionless access to the largest repository of learning and knowledge objects
+- [酷学院](https://www.coolcollege.cn/index.html) - 搭建基于移动互联网的企业培训体系 平台+课程+运营，一键搭建企业培训学习管理平台
+- [会否](http://www.kaoshixing.com/) - “会否”是一家为中大型企业提供基层员工业务技能，且能够高频互动的培训解决方案的企业。
+- [智慧树](https://www.zhihuishu.com/) - 全球大型的学分课程运营服务平台
+- [三节课](https://www.sanjieke.cn) - 联网产品人和运营人的在线大学
+- [道一云](https://wbg.do1.com.cn/) - 一站式智能办公平， 30%五百强企业都在用道一云与企业微信
+- [考试星](http://www.kaoshixing.com/) - 使用SaaS平台服务，全领域定位，包括企业、培训机构、学校
+- [传播智客](http://www.itcast.cn/) - 致力于培养高精尖数字化人才，主要培养人工智能、大数据、智能制造、软件、互联网、区块链等数字化专业人才及数据分析、网络营销、新媒体等数字化应用人才
+- [三茅](https://www.hrloo.com/) - 三茅人力资源网是一个人力资源在线学习平台
+- [量子大学](http://www.lzdxedu.com/) - 量子大学专注“教育+互联网”创新实践，链接全球领先教育资源，促进知识创新、传播与共享，致力于成为世界一流的企业云大学及优质内容服
+- [云学堂](https://www.yxt.com/) - 云学堂是一个互联网教育解决方案服务商，致力于帮助企业、教育机构、个人三类用户建设并运营网络学堂。
+- [凯洛格](http://www.keylogic.com.cn/) - 专注于咨询培训
+- [采贝教育](https://www.caibeitv.com/index.html) - 职业教育平台运营商
+- [时代光华](https://www.21tb.com/) - 平台+内容+运营，一站式解决企业学习难题。以高效率、低成本、覆盖广的方式，助力企业赋能员工
+- [人瑞人才](http://www.renruihr.com/index) - 人力资源解决方案先驱，也是众多新经济领军企业的战略合作伙伴
+- [肯耐珂萨](http://www.knx.com.cn/) - 全球领先的人力资源管理综合解决方案提供商
+- [培训宝](https://www.91pxb.com/?mod=marketing&do=intro) - 提供培训管理平台、移动学习平台、考试系统、微课课程资源、微课制作教导、培训运营服务等一站解决方案。
+- [WPS精品课](https://edu.wps.cn/) - 专为职场人士提供优质内容的在线教育平台
+- [FE商业教育](https://www.feshangye.com/) - 致力于用科学的AI模拟方法，用最简单的方式，让更多商科学生或者非商科生学习企业运作、无领导下的团队协作、以及个人在团队中的定位。
+- [魔学院](https://www.moxueyuan.com/) - 向企业的移动学习、培训管理和培训资源对接的云平台，为企业提供一站式企业培训平台服务。
+- [知学云](http://www.zhixuey.com/) - 智慧学习领航者,连接知识网络，开启深度学习体验，创建智慧学习生态
+- [问鼎云学习](http://www.wdxuexi.com/) - 是国内为数不多的能够提供线上+线下人才培养整体解决方案服务商之一。
+- [微加云学院](https://www.51vj.cn/product/suite-xsgl.html) - 一站式学习考试平台，提供培训、考试、直播、学习地图、外部考试、学分管理等功能，全方位助力企业的人才培养机制。
+- [小鹅通](https://www.xiaoe-tech.com/) - 为企业搭建专属的知识服务平台
+- [微课帮](http://bang.vko.cn/) - 微课网旗下互动平台。汇集当下最新课制作方法以及工具，帮助老师制作课程。
+- [云开科技](https://www.yunkai.com/) - 全场景智能教学平台
+- [课通天下](http://www.kttx.cn/) - 课通天下以指数型组织发展理念为指导，以“让好课通天下”为使命，致力于打造企业培训行业生态圈，通过战略合作的方式整合优质培训资源。
+- [职行力](https://www.exexm.com/) - 在直接帮助企业提升绩效理念基础上，以全新的设计理念和技术架构，重新定义传统企业在线学习产品，升华成为一个企业员工能力、知识、培训资源、业务工具的管理性平台。
 
 
 # License
